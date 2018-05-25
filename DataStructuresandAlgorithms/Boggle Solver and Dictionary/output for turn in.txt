@@ -1,0 +1,308 @@
+Words Loaded: 127142
+
+
+Would you like to enter your own board?: (y/n) y
+
+Row 0: h e y x
+
+Row 1: e y x h
+
+Row 2: y x h e
+
+Row 3: x h e y
+
+
+
+Would you like a detailed printout? (y/n)y
+
+Word: he
+Word Number: 1
+'h''e' y  x            1  2  0  0
+ e  y  x  h            0  0  0  0
+ y  x  h  e            0  0  0  0
+ x  h  e  y            0  0  0  0
+
+Word: hey
+Word Number: 2
+'h''e''y' x            1  2  3  0
+ e  y  x  h            0  0  0  0
+ y  x  h  e            0  0  0  0
+ x  h  e  y            0  0  0  0
+
+Word: hex
+Word Number: 3
+'h''e' y  x            1  2  0  0
+ e  y 'x' h            0  0  3  0
+ y  x  h  e            0  0  0  0
+ x  h  e  y            0  0  0  0
+
+Word: eh
+Word Number: 4
+'h''e' y  x            2  1  0  0
+ e  y  x  h            0  0  0  0
+ y  x  h  e            0  0  0  0
+ x  h  e  y            0  0  0  0
+
+Word: eye
+Word Number: 5
+ h 'e' y  x            0  1  0  0
+'e''y' x  h            3  2  0  0
+ y  x  h  e            0  0  0  0
+ x  h  e  y            0  0  0  0
+
+Word: ex
+Word Number: 6
+ h 'e' y  x            0  1  0  0
+ e  y 'x' h            0  0  2  0
+ y  x  h  e            0  0  0  0
+ x  h  e  y            0  0  0  0
+
+Word: ye
+Word Number: 7
+ h 'e''y' x            0  2  1  0
+ e  y  x  h            0  0  0  0
+ y  x  h  e            0  0  0  0
+ x  h  e  y            0  0  0  0
+
+Word: yeh
+Word Number: 8
+'h''e''y' x            3  2  1  0
+ e  y  x  h            0  0  0  0
+ y  x  h  e            0  0  0  0
+ x  h  e  y            0  0  0  0
+
+Word: heh
+Word Number: 9
+ h  e  y  x            0  0  0  0
+ e  y  x 'h'           0  0  0  1
+ y  x 'h''e'           0  0  3  2
+ x  h  e  y            0  0  0  0
+
+
+
+Do you wish to continue? (y/n) y
+Would you like to enter your own board?: (y/n) y
+
+Row 0: q q q q
+
+Row 1: q o k q
+
+Row 2: q a y q
+
+Row 3: q q q q
+
+
+Would you like a detailed printout? (y/n)y
+
+Word: oka
+Word Number: 1
+ q  q  q  q            0  0  0  0
+ q 'o''k' q            0  1  2  0
+ q 'a' y  q            0  3  0  0
+ q  q  q  q            0  0  0  0
+
+Word: okay
+Word Number: 2
+ q  q  q  q            0  0  0  0
+ q 'o''k' q            0  1  2  0
+ q 'a''y' q            0  3  4  0
+ q  q  q  q            0  0  0  0
+
+Word: oak
+Word Number: 3
+ q  q  q  q            0  0  0  0
+ q 'o''k' q            0  1  3  0
+ q 'a' y  q            0  2  0  0
+ q  q  q  q            0  0  0  0
+
+Word: oy
+Word Number: 4
+ q  q  q  q            0  0  0  0
+ q 'o' k  q            0  1  0  0
+ q  a 'y' q            0  0  2  0
+ q  q  q  q            0  0  0  0
+
+Word: koa
+Word Number: 5
+ q  q  q  q            0  0  0  0
+ q 'o''k' q            0  2  1  0
+ q 'a' y  q            0  3  0  0
+ q  q  q  q            0  0  0  0
+
+Word: ka
+Word Number: 6
+ q  q  q  q            0  0  0  0
+ q  o 'k' q            0  0  1  0
+ q 'a' y  q            0  2  0  0
+ q  q  q  q            0  0  0  0
+
+Word: kay
+Word Number: 7
+ q  q  q  q            0  0  0  0
+ q  o 'k' q            0  0  1  0
+ q 'a''y' q            0  2  3  0
+ q  q  q  q            0  0  0  0
+
+Word: kayo
+Word Number: 8
+ q  q  q  q            0  0  0  0
+ q 'o''k' q            0  4  1  0
+ q 'a''y' q            0  2  3  0
+ q  q  q  q            0  0  0  0
+
+Word: ay
+Word Number: 9
+ q  q  q  q            0  0  0  0
+ q  o  k  q            0  0  0  0
+ q 'a''y' q            0  1  2  0
+ q  q  q  q            0  0  0  0
+
+Word: yok
+Word Number: 10
+ q  q  q  q            0  0  0  0
+ q 'o''k' q            0  2  3  0
+ q  a 'y' q            0  0  1  0
+ q  q  q  q            0  0  0  0
+
+Word: ya
+Word Number: 11
+ q  q  q  q            0  0  0  0
+ q  o  k  q            0  0  0  0
+ q 'a''y' q            0  2  1  0
+ q  q  q  q            0  0  0  0
+
+Word: yak
+Word Number: 12
+ q  q  q  q            0  0  0  0
+ q  o 'k' q            0  0  3  0
+ q 'a''y' q            0  2  1  0
+ q  q  q  q            0  0  0  0
+
+
+
+Do you wish to continue? (y/n) y
+
+
+Would you like to enter your own board?: (y/n) y
+
+Row 0: t h i s
+
+Row 1: b e t t
+
+Row 2: o w r e
+
+Row 3: r k x x
+
+
+
+Would you like a detailed printout? (y/n)n
+1:     this
+2:     the
+3:     theist
+4:     thew
+5:     there
+6:     tet
+7:     teth
+8:     tets
+9:     tetter
+10:     tew
+11:     hi
+12:     his
+13:     hist
+14:     hie
+15:     hit
+16:     hits
+17:     hitter
+18:     he
+19:     het
+20:     heist
+21:     heister
+22:     hets
+23:     hew
+24:     her
+25:     here
+26:     is
+27:     it
+28:     ither
+29:     its
+30:     si
+31:     sit
+32:     sith
+33:     site
+34:     sitter
+35:     stet
+36:     stew
+37:     stere
+38:     strew
+39:     stereo
+40:     be
+41:     bet
+42:     beth
+43:     bets
+44:     better
+45:     berth
+46:     beret
+47:     berets
+48:     bo
+49:     bow
+50:     bower
+51:     et
+52:     eth
+53:     eh
+54:     er
+55:     ere
+56:     ti
+57:     tis
+58:     tie
+59:     tier
+60:     tit
+61:     tits
+62:     titre
+63:     titer
+64:     two
+65:     tret
+66:     trets
+67:     tithe
+68:     tither
+69:     tether
+70:     obe
+71:     oe
+72:     ow
+73:     owe
+74:     or
+75:     we
+76:     wet
+77:     web
+78:     wets
+79:     wetter
+80:     wert
+81:     were
+82:     wo
+83:     woe
+84:     work
+85:     wok
+86:     re
+87:     ret
+88:     rei
+89:     reis
+90:     reb
+91:     rets
+92:     rete
+93:     rework
+94:     retie
+95:     rex
+96:     ether
+97:     ex
+98:     rob
+99:     robe
+100:     roe
+101:     row
+102:     rower
+103:     rowth
+104:     kob
+105:     kor
+
+
+
+Do you wish to continue? (y/n) n
+Press any key to continue . . .
