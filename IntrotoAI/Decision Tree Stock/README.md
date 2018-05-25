@@ -1,0 +1,3 @@
+Stock predictor using Decision Tree Classifier
+
+This was my first use of Decision Tree Classifiers for an Introduction to Artificial Intelligence class. It attempts to fit together 25 csv files of data for different stocks. The files are contained in the rar file. I do not claim to know much about stocks, so the program guess based solely on whether the closing price is higher than or equal to the opening price. 
